@@ -1,0 +1,134 @@
+
+body{ 
+	background-color:lavender;
+	text-align: center;
+	font-family: 'Roboto Slab', serif; }
+
+header{
+	text-align: center;
+	background-color:#9999ff;
+	font-size:40px; 
+	color: #ccccff;	}
+#me {
+	background-image: url(images/pattern.jpg);
+	border-radius: 50%;
+	margin-top: 60px;
+}
+nav{ 
+	text-decoration: none;
+	color: grey;
+	word-spacing:40px;
+	background-color: #ccccff !important;
+	font-weight: bold ;
+
+
+}
+
+#intro{ 
+	text-align: left; }
+a{ 
+	text-decoration: none;
+	color: grey;
+	 }
+a:hover{
+	background-color: white;
+}
+main {
+	background-image: url(images/tile.jpg);
+	color: grey;
+	width: 100%;
+	padding: 40px;
+}
+#sport { 
+	text-align: left
+		
+ }
+
+#sportsblurb{
+	text-align: left;
+}
+ #sportpic {
+ 	word-spacing: 40px;
+
+ }
+ img {
+
+ border-radius: 25px;
+ 
+ }
+ #foodtext{
+ 	text-align: left;
+ }
+#foods img {
+	width:300px;
+	height: 300px;
+}
+#contact {
+	text-align: left;
+	background-color:#ccccff;
+	color: grey;
+	padding-bottom: 15px;
+	padding-left: 40px;
+}
+#name {
+	font-size: 24px;
+}
+
+a main {
+	text-decoration: underline;
+	text-decoration-color: purple;
+}
+
+hr{ 
+	color: grey ; 
+	margin: 0px;}
+h2 {
+	font-size: 30px;
+	color: grey;
+	margin:0px;
+}
+
+ul {
+	list-style-type: none;
+}
+#academicblurb {
+	text-align: left ;
+}
+
+
+
+#pagetwo{
+	font-size:60px;
+	color: grey;
+	background-color:#9999ff ;
+;
+
+}
+.gallery {
+	width: 20%;
+	height:20%;
+	border-radius:0%;
+}
+.pic {
+	width:266px;
+	height:177px;
+	float: left;
+	border-radius:0;
+	margin: 10px;
+}
+.pic2{
+	width:296px;
+	height:395px;
+	float:left;
+	border-radius:0;
+	margin: 10px;
+	margin-bottom: 60px;
+}
+.friends{
+	clear:left;
+	margin-top: 250px;
+}
+footer{
+	clear:both;
+	margin:40px;
+}
